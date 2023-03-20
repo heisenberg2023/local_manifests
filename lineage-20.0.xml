@@ -31,7 +31,7 @@
   <project path="vendor/xiaomi/mithorium-common-graphics"  name="proprietary_vendor_xiaomi_mithorium-common-graphics" remote="heisenberg" revision="a11/master"/>
 
  <!-- Mi439 -->
-  <project path="kernel/xiaomi/sdm439" name="kernel_xiaomi_sdm439"    remote="heisenberg"  revision="a12/main"/>
+  <project path="kernel/xiaomi/sdm439" name="android_kernel_xiaomi_sdm439"    remote="janak"  revision="a12/main"/>
   <project path="device/xiaomi/Mi439"  name="android_device_xiaomi_Mi439"      remote="heisenberg" revision="a13/master"/>
   <project path="vendor/xiaomi/Mi439"  name="proprietary_vendor_xiaomi_Mi439"  remote="heisenberg" revision="a11/master"/>
 
